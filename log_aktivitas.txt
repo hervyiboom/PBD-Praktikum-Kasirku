@@ -1,0 +1,14 @@
+2026-10-08 14:52:48 LOGOUT email=superadmin status=sukses ip=::1
+2026-10-08 14:54:14 LOGIN email=hervyi_boom status=sukses ip=::1
+2026-10-08 14:54:17 LOGOUT email=hervyi_boom status=sukses ip=::1
+2026-10-08 14:57:32 LOGIN_GAGAL email=GUEST status=user_tidak_ditemukan ip=::1
+2026-10-08 14:57:40 LOGIN email=hervyi_boom status=sukses ip=::1
+2026-10-23 07:09:00 LOGIN_GAGAL email=GUEST status=user_tidak_ditemukan ip=::1
+2026-10-23 07:09:06 LOGIN_GAGAL email=GUEST status=user_tidak_ditemukan ip=::1
+2026-10-23 07:09:42 LOGIN email=naufalh975@gmail.com status=sukses ip=::1
+2026-10-30 07:02:32 LOGIN email=naufalh975@gmail.com status=sukses ip=::1
+2026-10-30 07:46:32 LOGOUT email=naufalh975@gmail.com status=sukses ip=::1
+2026-10-30 07:47:21 LOGIN email=naufalh975@gmail.com status=sukses ip=::1
+2026-11-10 04:41:53 LOGIN email=naufalh975@gmail.com status=sukses ip=::1
+2026-11-11 07:25:02 LOGIN email=naufalh975@gmail.com status=sukses ip=::1
+2026-11-13 06:22:02 LOGIN email=naufalh975@gmail.com status=sukses ip=::1
